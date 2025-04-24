@@ -1,3 +1,5 @@
+![Captura de tela 2025-04-22 200314](https://github.com/user-attachments/assets/a82535c8-c6c3-4496-bc29-efaf4e409ef9)
+![Captura de tela 2025-04-22 195840](https://github.com/user-attachments/assets/a6ae4a2b-60d1-4b84-b501-a12c31e90498)
 # WeCare-responsivit
 
 Projeto desenvolvido com HTML e CSS, focado em responsividade!
